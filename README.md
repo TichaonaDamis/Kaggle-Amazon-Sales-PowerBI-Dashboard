@@ -1,2 +1,3 @@
 # Kaggle-Amazon-Sales-PowerBI-Dashboard
 Sales PowerBI Dashboard 
+https://app.powerbi.com/view?r=eyJrIjoiNjFmYzI2ZmUtY2IwZS00YjMzLTgyY2ItMThiNzM3MmRkY2ViIiwidCI6ImQ1MjVhM2MwLWE5ZDgtNGQyOC05ZTU5LTQwMzU4Zjc3NGYwOSJ9
